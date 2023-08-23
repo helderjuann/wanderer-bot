@@ -1,5 +1,6 @@
 # wanderer-bot
-Criei e adaptei esse bot inspirado em um site que já existe na internet
+Criei e adaptei esse bot inspirado em um site que já existe na internet<br>
+Ref -> https://jacobdev1.github.io/genshin_timer/
 
 **Requisitos**
 
