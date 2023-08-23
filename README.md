@@ -5,6 +5,11 @@ Criei esse bot inspirado em um site que já existe na internet
 
 node.js - discord.js
 
+**Sobre o .env**
+
+No CLIENT_ID tu precisa por o seu ID do discord<br>
+No TOKEN_ID tu preccisa por o seu ID do bot<br>
+
 Estou disponibilizando apenas os arquivos **_js_** e **_.env_**<br>
 Você precisa instalar o resto para funcionar na sua máquina (local) ou no discord (hospedado)
 
