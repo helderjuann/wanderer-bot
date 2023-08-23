@@ -7,4 +7,6 @@ Você precisa digitar um valor de 0 a 160 (Nem mais, nem menos... O bot saberá 
 *Exemplo* - !resina 130
 *Resposta* - "Sua ficará cheia às ..."
 
-Tem muita coisa a melhorar ainda, porém já está funcionando muito bem. 
+
+O bot também possui algumas interações, conversando com você (Mas é coisa muito, muito básica)
+Tem muita coisa a melhorar ainda, porém já está funcionando muito bem
