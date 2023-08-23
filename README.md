@@ -1,5 +1,5 @@
 # wanderer-bot
-Criei esse bot inspirado em um site que já existe na internet
+Criei e adaptei esse bot inspirado em um site que já existe na internet
 
 **Requisitos**
 
