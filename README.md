@@ -14,5 +14,5 @@ Você precisa digitar um valor de 0 a 160 (Nem mais, nem menos... O bot saberá 
 *Exemplo* - !resina 130<br>
 *Resposta* - "Sua ficará cheia às ..."
 
-O bot também possui algumas interações, conversando com você (Mas é coisa muito, muito básica)<br>
+O bot também possui algumas interações e conversa com você (Mas é algo bem básico, não me aprofundei nisso)<br>
 Tem muita coisa a melhorar ainda, porém já está funcionando muito bem
