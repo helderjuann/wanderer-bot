@@ -5,7 +5,7 @@ Requisitos*
 
 node.js - discord.js
 
-Estou disponibilizando apenas os arquivos _js_ e _.env_
+Estou disponibilizando apenas os arquivos _js_ e _.env_<br>
 Você precisa instalar o resto para funcionar na sua máquina (local) ou no discord (hospedado)
 
 A ideia é muito simples, você digita "!resina + (quantidade atual da sua resina)" e o bot retorna o horário em que ela estará cheia<br>
