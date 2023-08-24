@@ -60,4 +60,4 @@ client.on('messageCreate', (message) => {
     }
   });
 
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN); // Vai procurar o arquivo dotenv para pegar o TOKEN - Isso serve para caso você queira colocar um gitignore, assim você mantém sua informação pessoal segura. - Helder Juan 24/08
