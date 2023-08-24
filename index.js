@@ -40,7 +40,7 @@ client.on('messageCreate', (message) => {
       }
   
       if (current_resin > 160) {
-        message.reply("O valor da resina não pode ser maior que 160");
+        message.reply("A quantidade de resina não pode ser maior que 160");
         return;
       }
   
