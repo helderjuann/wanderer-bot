@@ -24,6 +24,12 @@ client.on('messageCreate', (message) => {
 });
 
 client.on('messageCreate', (message) => {
+    if (message.content === 'Andarilho') {
+        message.reply('E aí! Precisa de ajuda?');
+    }
+});
+
+client.on('messageCreate', (message) => {
     if (message.content.startsWith('!resina')) {
       const args = message.content.slice(8).trim().split(' ');
       const current_resin = parseInt(args[0]);
